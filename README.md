@@ -29,3 +29,4 @@ I focus on building strong fundamentals before moving to advanced topics. I beli
 - Thai (Learning)
 
 ## Certifications/ Workshops 
+- **Masterclass: Youth Leadership Summit 2025** – Certificate of Participation (Aug 2025) | [View](certificates/Masterclass-YouthLeadershipSummit-2025.pdf)
