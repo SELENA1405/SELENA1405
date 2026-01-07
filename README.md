@@ -1,6 +1,9 @@
 <h1 align="center">Welcome to Selena's World!</h1>
+<p align="center">
+  🎓 Dual Degree Student | 💻 Software Engineering | 📊 Data Science
+</p>
 
-🎓 Dual-degree undergraduate student in **Data Science** and **Information Technology** 
+🎓 Dual-degree undergraduate student in **Data Science** and **Information Technology**    
 📍 Global Academy @ Siam University | La Trobe University  
 💡 Passionate about learning, building, and continuously improving my technical skills
 
