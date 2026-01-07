@@ -1,18 +1,31 @@
 # Hi, I am SanJaNar aka Selena!
 
-I am a dual-degree student in the Global Academy @ Siam University, pursuing a Data Science degree at Siam University and an Information Technology degree with a specialization in Software Engineering from La Trobe University.
+🎓 Dual-degree undergraduate student in **Data Science** and **Information Technology** 
+📍 Global Academy @ Siam University | La Trobe University  
+💡 Passionate about learning, building, and continuously improving my technical skills
 
-![SELENA1405 Stats](https://github-readme-stats.vercel.app/api?username=SELENA1405)
+## About Me 
+- 🎓 Dual-degree undergraduate student in an international program at **Global Academy @ Siam University**
+- 📊 Studying **Data Science** at Siam University and **Information Technology (Software Engineering)** at La Trobe University
+- 💡 Focused on building strong fundamentals in **programming, OOP, data structures, and problem-solving**
+- 🛠 Learn best through **hands-on practice and small projects**
+- 📘 Tutor **English for non-native speakers**, strengthening communication and teaching skills
+- 🌏 Multilingual and experienced in an international academic environment
 
+## Learning Philosophy 
+I focus on building strong fundamentals before moving to advanced topics. I believe consistent practice, understanding core concepts, and learning by doing are key to becoming a better developer and problem solver.
 
-Here are some ideas to get you started:
+## Soft Skills 
+- Clear communication and explanation
+- Teaching and mentoring (English tutoring)
+- Time management and consistency
+- Cross-cultural collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages 
+- English (Fluent)
+- Nepali (Native)
+- Hindi (Fluent)
+- Burmese (Fluent)
+- Thai (Learning)
+
+## Certifications/ Workshops 
