@@ -15,6 +15,8 @@
 ## Learning Philosophy 
 I focus on building strong fundamentals before moving to advanced topics. I believe consistent practice, understanding core concepts, and learning by doing are key to becoming a better developer and problem solver.
 
+## Tech Stack 
+
 ## Soft Skills 
 - Clear communication and explanation
 - Teaching and mentoring (English tutoring)
