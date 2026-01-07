@@ -1,5 +1,9 @@
 <h1 align="center">Welcome to Selena's World!</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
 🎓 Dual-degree undergraduate student in **Data Science** and **Information Technology**    
 📍 Global Academy @ Siam University | La Trobe University  
 💡 Passionate about learning, building, and continuously improving my technical skills
@@ -11,6 +15,10 @@
 - 🛠 Learn best through **hands-on practice and small projects**
 - 📘 Tutor **English for non-native speakers**, strengthening communication and teaching skills
 - 🌏 Multilingual and experienced in an international academic environment
+  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=600&color=6A5ACD&width=435&lines=Dual+Degree+Program+Student;Data+Science+Student;Information+Technology+Student;Problem+Solving+Enthusiast;Future+Software+Engineer" />
+</p>
 
 ## Learning Philosophy 
 I focus on building strong fundamentals before moving to advanced topics. I believe consistent practice, understanding core concepts, and learning by doing are key to becoming a better developer and problem solver.
