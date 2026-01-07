@@ -3,6 +3,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=fadeIn" />
+</p>
+
 
 🎓 Dual-degree undergraduate student in **Data Science** and **Information Technology**    
 📍 Global Academy @ Siam University | La Trobe University  
