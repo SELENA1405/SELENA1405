@@ -30,3 +30,12 @@ I focus on building strong fundamentals before moving to advanced topics. I beli
 
 ## Certifications/ Workshops 
 - **Masterclass: Youth Leadership Summit 2025** – Certificate of Participation (Aug 2025) | [View](certificates/Masterclass-YouthLeadershipSummit-2025.pdf?raw=true)
+
+## Current Focus
+- Strengthening Java and OOP fundamentals
+- Practicing problem-solving and data structures
+- Building small projects alongside coursework
+
+## Projects
+- Coming soon — currently building foundational projects in Java.
+
