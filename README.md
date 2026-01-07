@@ -1,4 +1,4 @@
-# Hi, I am SanJaNar aka Selena!
+<h1 align="center">Welcome to Selena's World!</h1>
 
 🎓 Dual-degree undergraduate student in **Data Science** and **Information Technology** 
 📍 Global Academy @ Siam University | La Trobe University  
