@@ -1,7 +1,9 @@
-## Hi there 👋
+# Hi, I am SanJaNar aka Selena!
 
-<!--
-**SELENA1405/SELENA1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dual-degree student in the Global Academy @ Siam University, pursuing a Data Science degree at Siam University and an Information Technology degree with a specialization in Software Engineering from La Trobe University.
+
+![SELENA1405 Stats](https://github-readme-stats.vercel.app/api?username=SELENA1405)
+
 
 Here are some ideas to get you started:
 
