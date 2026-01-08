@@ -1,5 +1,6 @@
-<h1 align="center">Welcome to Selena's World!</h1>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:3b82f6,100:f472b6&text=Welcome%20to%20Selena's%20World!&fontSize=40&fontAlignY=35" />
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
