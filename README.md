@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:3b82f6,100:f472b6&text=Welcome%20to%20Selena's%20World!&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:3b82f6,100:f472b6&text=Selena%E2%80%99s%20Space&fontSize=36&fontAlignY=38&fontColor=ffffff" />
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
