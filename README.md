@@ -21,9 +21,9 @@
 - 🛠 Learn best through **hands-on practice and small projects**
 - 📘 Tutor **English for non-native speakers**, strengthening communication and teaching skills
 - 🌏 Multilingual and experienced in an international academic environment
-  
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=600&color=6A5ACD&width=435&lines=Dual+Degree+Program+Student;Data+Science+Student;Information+Technology+Student;Problem+Solving+Enthusiast;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=600&color=6A5ACD&width=435&lines=Dual+Degree+Undergraduate+Student;Data+Science+From+GlobalAcademy@Siam;Information+Technology+From+LaTrobe;Problem+Solving+Enthusiast;Future+Software+Engineer" />
 </p>
 
 ## Learning Philosophy 
