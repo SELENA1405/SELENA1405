@@ -31,7 +31,6 @@ I am currently seeking **Data Analyst** and **Data Scientist** opportunities.
 | Project | Description | Stack |
 |---|---|---|
 | **Student Screen Time and Academic Performance** | Exploratory analysis and statistical testing of survey data, examining how screen time, study habits and sleep relate to academic performance. Delivered as an interactive dashboard. | Python, Pandas, NumPy, Streamlit |
-| **Social Media and Competitor Analysis** | Engagement and competitor analysis completed during an internship at Marketing Bear, including tracking sheets and data-backed recommendations for clients. | Excel, Google Sheets |
 | **[Brew and Focus](https://github.com/SELENA1405/Brew-Focus)** | A study timer presented as a café. The drink empties as the user focuses, completed sessions are saved to a recipe book, and friends can study together at a shared table. [Live demo](https://selena1405.github.io/Brew-Focus/) | HTML, CSS, JavaScript, Supabase |
 | **FixifAi Classifier** | Classification model developed for model training. | [Add stack] |
 | **[Textile Website](https://github.com/SELENA1405/textile-website)** | A showcase site for textile products and collections, built as a practice project inspired by a family textile business. | HTML, CSS, JavaScript |
