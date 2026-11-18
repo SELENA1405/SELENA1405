@@ -1,68 +1,93 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:3b82f6,100:f472b6&text=Selena%E2%80%99s%20Space&fontSize=36&fontAlignY=38&fontColor=ffffff" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:3b82f6&height=180&section=header&text=Selena&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Scientist;Computer+%26+Data+Science+Student;Turning+data+into+decisions" />
+
+</div>
+
+---
+
+## About
+
+Computer and Data Science student at **Global Academy @ Siam University**, pursuing a double degree in **Information Technology** at **La Trobe University**. I work across analytics, machine learning and data visualization, and I learn best by building small projects and refining them.
+
+I am currently seeking **Data Analyst** and **Data Scientist** opportunities.
+
+---
+
+## Technical Skills
+
+**Languages:** Python, Java, SQL, JavaScript, HTML, CSS
+
+**Data and Visualization:** Pandas, NumPy, Matplotlib, Plotly, Streamlit, Excel, MySQL
+
+**Tools:** Git, GitHub, VS Code, Google Colab, Figma
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Student Screen Time and Academic Performance** | Exploratory analysis and statistical testing of survey data, examining how screen time, study habits and sleep relate to academic performance. Delivered as an interactive dashboard. | Python, Pandas, NumPy, Streamlit |
+| **Social Media and Competitor Analysis** | Engagement and competitor analysis completed during an internship at Marketing Bear, including tracking sheets and data-backed recommendations for clients. | Excel, Google Sheets |
+| **[Brew and Focus](https://github.com/SELENA1405/Brew-Focus)** | A study timer presented as a café. The drink empties as the user focuses, completed sessions are saved to a recipe book, and friends can study together at a shared table. [Live demo](https://selena1405.github.io/Brew-Focus/) | HTML, CSS, JavaScript, Supabase |
+| **FixifAi Classifier** | Classification model developed for model training. | [Add stack] |
+| **[Textile Website](https://github.com/SELENA1405/textile-website)** | A showcase site for textile products and collections, built as a practice project inspired by a family textile business. | HTML, CSS, JavaScript |
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SELENA1405&show_icons=true&theme=default&hide_border=true" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SELENA1405&layout=compact&theme=default&hide_border=true" alt="Most used languages" />
 </p>
+
+---
+
+## Education
+
+| Degree | Institution | Period | Notes |
+|---|---|---|---|
+| B.Sc. Computer and Data Science | Global Academy @ Siam University, Bangkok | 2024 – 2028 | CGPA 3.96 / 4.0 |
+| Bachelor of Information Technology (Software Engineering) | La Trobe University, Australia | 2026 – 2028 | Double degree |
+
+---
+
+## Experience
+
+**Social Media Intern, Marketing Bear** · 2026
+
+Analysed engagement and competitor data across social platforms to surface performance trends, then translated the findings into data-backed content recommendations for clients and internal brands.
+ 
+- Collected and structured competitor data across Instagram, Facebook and TikTok
+- Analysed engagement metrics to identify statistically meaningful performance patterns
+- Built repeatable tracking sheets to monitor trends and surface emerging opportunities
+- Organised and modelled research data in Excel and Google Sheets for reporting
+- Presented findings as clear, actionable recommendations for stakeholders
+
+---
+
+## Certifications and Awards
+
+- 4.00 Scholar Certificate of Recognition, Global Academy @ Siam University (2026)
+- Academic Award Medal, Global Academy @ Siam University (2026)
+- Entrepreneurship Workshop Certificate, ThinkX Global (2025)([View certificate](certificates/Masterclass-YouthLeadershipSummit-2025.pdf?raw=true))
+
+---
+
+## Languages
+
+English (Fluent) · Nepali (Native) · Hindi (Fluent) · Burmese (Fluent) · Thai (Learning)
+
+---
+
+## Contact
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=fadeIn" />
+  <a href="mailto:selena141ss@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/san-ja-nar-14102005s/"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SELENA1405"><img src="https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
-
-
-🎓 Dual-degree undergraduate student in **Data Science** and **Information Technology**    
-📍 Global Academy @ Siam University | La Trobe University  
-💡 Passionate about learning, building, and continuously improving my technical skills
-
-## About Me 
-- 🎓 Dual-degree undergraduate student in an international program at **Global Academy @ Siam University**
-- 📊 Studying **Data Science** at Siam University and **Information Technology (Software Engineering)** at La Trobe University
-- 💡 Focused on building strong fundamentals in **programming, OOP, data structures, and problem-solving**
-- 🛠 Learn best through **hands-on practice and small projects**
-- 📘 Tutor **English for non-native speakers**, strengthening communication and teaching skills
-- 🌏 Multilingual and experienced in an international academic environment
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=600&color=6A5ACD&width=435&lines=Dual+Degree+Undergraduate+Student;Data+Science+From+GlobalAcademy@Siam;Information+Technology+From+LaTrobe;Problem+Solving+Enthusiast;Future+Software+Engineer" />
-</p>
-
-## Learning Philosophy 
-I focus on building strong fundamentals before moving to advanced topics. I believe consistent practice, understanding core concepts, and learning by doing are key to becoming a better developer and problem solver.
-
-## Tech Stack 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-## Soft Skills 
-- Clear communication and explanation
-- Teaching and mentoring (English tutoring)
-- Time management and consistency
-- Cross-cultural collaboration
-
-## Languages 
-- English (Fluent)
-- Nepali (Native)
-- Hindi (Fluent)
-- Burmese (Fluent)
-- Thai (Learning)
-
-## Certifications/ Workshops 
-- **Masterclass: Youth Leadership Summit 2025** – Certificate of Participation (Aug 2025) | [View](certificates/Masterclass-YouthLeadershipSummit-2025.pdf?raw=true)
-
-## Current Focus
-- Strengthening Java and OOP fundamentals
-- Practicing problem-solving and data structures
-- Building small projects alongside coursework
-
-## Projects
-- Coming soon — currently building foundational projects in Java.
-
